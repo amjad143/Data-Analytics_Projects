@@ -1,1 +1,15 @@
-
+# Understanding Dataset
+* Id : Unique number given to each row
+* Season : IPL seasons in which a particular match was played
+* City : Name of the cities in which a particular match was played
+* Date : Date of the match
+* Team1,Team2 : Name of the team playing the match
+* Toss_Winner : Name of the team who won the toss.
+* Toss_decission : Wheather the winning team choose field or bat
+* Result : Result of the match
+* DL_applied : Wheather dl is applied or not(0,1)
+* Winner : Winner of the match
+* Win_by_runs,Win_by_wickets : Margin of win
+* Player_of _the_match : Man of the match title
+* Venue : Name of the stadium where match was played
+* Umpire1,Umpire2,Umpire3 : Name of the umpires
